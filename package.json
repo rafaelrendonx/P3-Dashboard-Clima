@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "p3-dashboard-clima",
+  "description": "",
+  "version": "1.0.0",
+  "main": "apis.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelrendonx/P3-Dashboard-Clima.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelrendonx/P3-Dashboard-Clima/issues"
+  },
+  "homepage": "https://github.com/rafaelrendonx/P3-Dashboard-Clima#readme"
+}
