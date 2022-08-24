@@ -35,3 +35,9 @@
   .sidebar .nav-link.active {
     color: #0d6efd;
   }
+
+  .graficas {
+    width: 10;
+    height: 10;
+    color: #333;
+  }
